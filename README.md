@@ -2,21 +2,6 @@
 
 100% FOSS keyboard, based on AOSP.
 
-## Community [matrix] channel
-![](images/matrix_qr.png)
-
-Join [here](https://matrix.to/#/+openboard:matrix.org)
-
-## Common issues
-- Cannot open settings in MIUI
-
-See https://github.com/dslul/openboard/issues/46
-
-## Contribute
-
-### How to create a dictionary
-You can use [this tool](https://github.com/remi0s/aosp-dictionary-tools) to create a dictionary. You need a wordlist, as described [here](https://github.com/dslul/openboard/blob/master/dictionaries/sample.combined). The output .dict file must be put in [res/raw](https://github.com/dslul/openboard/tree/master/app/src/main/res/raw).
-
 ### APK Development
 
 #### Linux
