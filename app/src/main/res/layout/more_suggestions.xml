@@ -24,8 +24,9 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
 >
+    <!-- XML namespace modified by REV Robotics on 2021-05-06 to fix the build -->
     <org.dslul.openboard.inputmethod.latin.suggestions.MoreSuggestionsView
-        xmlns:latin="http://schemas.android.com/apk/res/org.dslul.openboard.inputmethod.latin"
+        xmlns:latin="http://schemas.android.com/apk/res/com.revrobotics.openboard.inputmethod.latin"
         android:id="@+id/more_suggestions_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
