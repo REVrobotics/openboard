@@ -1,7 +1,5 @@
 # OpenBoard for the REV Robotics Driver Hub
 
-![](images/feature.png)
-
 100% FOSS keyboard, based on AOSP.
 
 ## Community [matrix] channel
