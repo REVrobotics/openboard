@@ -6,11 +6,12 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "org.dslul.openboard.inputmethod.latin"
+        // applicationId and version information modified by REV Robotics
+        applicationId "com.revrobotics.openboard.inputmethod.latin"
         minSdkVersion 19
         targetSdkVersion 30
-        versionCode 15
-        versionName '1.4.3'
+        versionCode 1
+        versionName '1.4.3-1'
     }
 
     buildTypes {
