@@ -9,3 +9,8 @@ app/build
 app/release
 app/.cxx
 fastlane/Appfile
+
+# Entries added by REV Robotics on 2021-05-06
+keystore.properties
+*.jks
+*.p12
