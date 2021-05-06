@@ -1,6 +1,6 @@
 # OpenBoard for the REV Robotics Driver Hub
 
-100% FOSS keyboard, based on AOSP.
+100% FOSS keyboard, based on AOSP. Please report issues to the issue tracker on this fork or to support@revrobotics.com, not to the OpenBoard community.
 
 ### APK Development
 
